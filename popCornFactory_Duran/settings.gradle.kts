@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "popCornFactory_Duran"
+rootProject.name = "PopCornFactory_Duran"
 include(":app")
  

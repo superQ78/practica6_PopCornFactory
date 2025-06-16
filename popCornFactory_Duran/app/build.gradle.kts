@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "duran.cesar.popcornfactory_duran"
-        minSdk = 24
+        minSdk = 21
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
